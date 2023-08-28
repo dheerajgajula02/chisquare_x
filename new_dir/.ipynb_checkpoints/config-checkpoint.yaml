@@ -1,0 +1,6 @@
+path: /home/dheeraj/Desktop/Projects/chisqare_x/new_dir
+train: images/train
+val: images/val
+
+nc: 1
+names: ['disease']
